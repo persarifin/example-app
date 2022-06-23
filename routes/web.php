@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'hello world';
+    return 'hello world ';
 });
 
 #domain : https://bootcamp-app-development.herokuapp.com/
